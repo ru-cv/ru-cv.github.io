@@ -148,9 +148,9 @@
 
 #### Linux
 
-- [Репозиторий Debian](https://build.opensuse.org/project/show/home:pkgstore:deb)  
+- Репозиторий Debian ([OBS](https://build.opensuse.org/project/show/home:pkgstore:deb))  
   Репозиторий DEB пакетов для дистрибутива Debian GNU/Linux.
-- [Репозиторий CentOS / Fedora](https://build.opensuse.org/project/show/home:pkgstore:rpm)  
+- Репозиторий CentOS / Fedora ([OBS](https://build.opensuse.org/project/show/home:pkgstore:rpm) / [COPR](https://copr.fedorainfracloud.org/coprs/pkgstore/))  
   Репозиторий RPM пакетов для дистрибутивов CentOS / Fedora / Oracle Linux.
 
 #### Порталы
