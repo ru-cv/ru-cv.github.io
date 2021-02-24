@@ -47,10 +47,10 @@
 
 Являюсь автором модулей к движкам сайтов и форумов:
 
-- ([Drupal](https://github.com/marketplace-drupal) <code class="text-gray print">https://github.com/marketplace-drupal</code>)
-- ([Flarum](https://github.com/marketplace-flarum) <code class="text-gray print">https://github.com/marketplace-flarum</code>)
-- ([MediaWiki](https://github.com/marketplace-mediawiki) <code class="text-gray print">https://github.com/marketplace-mediawiki</code>)
-- ([XenForo](https://github.com/marketplace-xenforo) <code class="text-gray print">https://github.com/marketplace-xenforo</code>)
+- [Drupal](https://github.com/marketplace-drupal) <code class="text-gray print">https://github.com/marketplace-drupal</code>
+- [Flarum](https://github.com/marketplace-flarum) <code class="text-gray print">https://github.com/marketplace-flarum</code>
+- [MediaWiki](https://github.com/marketplace-mediawiki) <code class="text-gray print">https://github.com/marketplace-mediawiki</code>
+- [XenForo](https://github.com/marketplace-xenforo) <code class="text-gray print">https://github.com/marketplace-xenforo</code>
 
 Создатель [русской локализации](https://discuss.flarum.org/d/1545) <code class="text-gray print">https://discuss.flarum.org/d/1545</code> движка [Flarum](https://flarum.org/).
 
