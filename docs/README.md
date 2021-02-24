@@ -7,8 +7,8 @@
 
 #### Контакты
 
-- [Официальный сайт](https://kitsune.solar) <code class="text-gray print">https://kitsune.solar</code>
-- [Форма для пожертвований](https://donation-form.github.io) <code class="text-gray print">https://donation-form.github.io</code>
+- [Официальный сайт](https://kitsune.solar) <code class="print">https://kitsune.solar</code>
+- [Форма для пожертвований](https://donation-form.github.io) <code class="print">https://donation-form.github.io</code>
 - [mail@kitsune.solar](mailto:mail@kitsune.solar)
 
 ---
@@ -25,10 +25,10 @@
 Имеются собственные репозитории (собираю и обновляю пакеты):
 
 - Debian
-  - [OBS](https://build.opensuse.org/project/show/home:pkgstore:deb) <code class="text-gray print">https://build.opensuse.org/project/show/home:pkgstore:deb</code>
+  - [OBS](https://build.opensuse.org/project/show/home:pkgstore:deb) <code class="print">https://build.opensuse.org/project/show/home:pkgstore:deb</code>
 - CentOS / Fedora
-  - [OBS](https://build.opensuse.org/project/show/home:pkgstore:rpm) <code class="text-gray print">https://build.opensuse.org/project/show/home:pkgstore:rpm</code>
-  - [COPR](https://copr.fedorainfracloud.org/coprs/pkgstore/) <code class="text-gray print">https://copr.fedorainfracloud.org/coprs/pkgstore/</code>
+  - [OBS](https://build.opensuse.org/project/show/home:pkgstore:rpm) <code class="print">https://build.opensuse.org/project/show/home:pkgstore:rpm</code>
+  - [COPR](https://copr.fedorainfracloud.org/coprs/pkgstore/) <code class="print">https://copr.fedorainfracloud.org/coprs/pkgstore/</code>
 
 Устанавливаю и настраиваю компоненты системы, например, такие как:
 
@@ -47,12 +47,12 @@
 
 Являюсь автором модулей к движкам сайтов и форумов:
 
-- [Drupal](https://github.com/marketplace-drupal) <code class="text-gray print">https://github.com/marketplace-drupal</code>
-- [Flarum](https://github.com/marketplace-flarum) <code class="text-gray print">https://github.com/marketplace-flarum</code>
-- [MediaWiki](https://github.com/marketplace-mediawiki) <code class="text-gray print">https://github.com/marketplace-mediawiki</code>
-- [XenForo](https://github.com/marketplace-xenforo) <code class="text-gray print">https://github.com/marketplace-xenforo</code>
+- [Drupal](https://github.com/marketplace-drupal) <code class="print">https://github.com/marketplace-drupal</code>
+- [Flarum](https://github.com/marketplace-flarum) <code class="print">https://github.com/marketplace-flarum</code>
+- [MediaWiki](https://github.com/marketplace-mediawiki) <code class="print">https://github.com/marketplace-mediawiki</code>
+- [XenForo](https://github.com/marketplace-xenforo) <code class="print">https://github.com/marketplace-xenforo</code>
 
-Создатель [русской локализации](https://discuss.flarum.org/d/1545) <code class="text-gray print">https://discuss.flarum.org/d/1545</code> движка [Flarum](https://flarum.org/).
+Создатель [русской локализации](https://discuss.flarum.org/d/1545) <code class="print">https://discuss.flarum.org/d/1545</code> движка [Flarum](https://flarum.org/).
 
 #### Навыки
 
@@ -148,11 +148,11 @@
 
 #### Linux
 
-- [Репозиторий Debian (OBS)](https://build.opensuse.org/project/show/home:pkgstore:deb) <code class="text-gray print">https://build.opensuse.org/project/show/home:pkgstore:deb</code>  
+- [Репозиторий Debian (OBS)](https://build.opensuse.org/project/show/home:pkgstore:deb) <code class="print">https://build.opensuse.org/project/show/home:pkgstore:deb</code>  
   Репозиторий DEB пакетов для дистрибутива Debian GNU/Linux на OBS.
-- [Репозиторий CentOS / Fedora (OBS)](https://build.opensuse.org/project/show/home:pkgstore:rpm) <code class="text-gray print">https://build.opensuse.org/project/show/home:pkgstore:rpm</code>  
+- [Репозиторий CentOS / Fedora (OBS)](https://build.opensuse.org/project/show/home:pkgstore:rpm) <code class="print">https://build.opensuse.org/project/show/home:pkgstore:rpm</code>  
   Репозиторий RPM пакетов для дистрибутивов CentOS / Fedora / Oracle Linux на OBS.
-- [Репозиторий CentOS / Fedora (COPR)](https://copr.fedorainfracloud.org/coprs/pkgstore/) <code class="text-gray print">https://copr.fedorainfracloud.org/coprs/pkgstore/</code>  
+- [Репозиторий CentOS / Fedora (COPR)](https://copr.fedorainfracloud.org/coprs/pkgstore/) <code class="print">https://copr.fedorainfracloud.org/coprs/pkgstore/</code>  
   Репозиторий RPM пакетов для дистрибутивов CentOS / Fedora / Oracle Linux на COPR.
 
 #### Порталы
@@ -162,7 +162,7 @@
 
 #### Сервера Discord
 
-- [Discord Servers](https://discordservers.top/) <code class="text-gray print">https://discordservers.top/</code>  
+- [Discord Servers](https://discordservers.top/) <code class="print">https://discordservers.top/</code>  
   Список серверов Discord. *В проекте...*
 
 ---
@@ -173,16 +173,16 @@
 
 #### Социальные сети
 
-- [Facebook](https://facebook.com/KitsuneSolar) <code class="text-gray print">https://facebook.com/KitsuneSolar</code>
-- [Instagram](https://instagram.com/KitsuneSolar) <code class="text-gray print">https://instagram.com/KitsuneSolar</code>
-- [LinkedIn](https://linkedin.com/in/KitsuneSolar) <code class="text-gray print">https://linkedin.com/in/KitsuneSolar</code>
-- [Telegram](https://t.me/KitsuneSolar) <code class="text-gray print">https://t.me/KitsuneSolar</code>
-- [Twitch](https://twitch.tv/KitsuneSolar) <code class="text-gray print">https://twitch.tv/KitsuneSolar</code>
-- [Twitter](https://twitter.com/KitsuneSolar) <code class="text-gray print">https://twitter.com/KitsuneSolar</code>
-- [Vk](https://vk.com/KitsuneSolar) <code class="text-gray print">https://vk.com/KitsuneSolar</code>
-- [YouTube](https://youtube.com/KitsuneSolar) <code class="text-gray print">https://youtube.com/KitsuneSolar</code>
+- [Facebook](https://facebook.com/KitsuneSolar) <code class="print">https://facebook.com/KitsuneSolar</code>
+- [Instagram](https://instagram.com/KitsuneSolar) <code class="print">https://instagram.com/KitsuneSolar</code>
+- [LinkedIn](https://linkedin.com/in/KitsuneSolar) <code class="print">https://linkedin.com/in/KitsuneSolar</code>
+- [Telegram](https://t.me/KitsuneSolar) <code class="print">https://t.me/KitsuneSolar</code>
+- [Twitch](https://twitch.tv/KitsuneSolar) <code class="print">https://twitch.tv/KitsuneSolar</code>
+- [Twitter](https://twitter.com/KitsuneSolar) <code class="print">https://twitter.com/KitsuneSolar</code>
+- [Vk](https://vk.com/KitsuneSolar) <code class="print">https://vk.com/KitsuneSolar</code>
+- [YouTube](https://youtube.com/KitsuneSolar) <code class="print">https://youtube.com/KitsuneSolar</code>
 
 #### Разработка
 
-- [GitHub](https://github.com/KitsuneSolar) <code class="text-gray print">https://github.com/KitsuneSolar</code>
-- [GitLab](https://gitlab.com/KitsuneSolar) <code class="text-gray print">https://gitlab.com/KitsuneSolar</code>
+- [GitHub](https://github.com/KitsuneSolar) <code class="print">https://github.com/KitsuneSolar</code>
+- [GitLab](https://gitlab.com/KitsuneSolar) <code class="print">https://gitlab.com/KitsuneSolar</code>
