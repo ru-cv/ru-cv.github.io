@@ -171,12 +171,12 @@
 
 #### Социальные сети
 
-- [Twitter](https://twitter.com/KitsuneSolar)
 - [Facebook](https://facebook.com/KitsuneSolar)
 - [Instagram](https://instagram.com/KitsuneSolar)
 - [LinkedIn](https://linkedin.com/in/KitsuneSolar)
 - [Telegram](https://t.me/KitsuneSolar)
 - [Twitch](https://twitch.tv/KitsuneSolar)
+- [Twitter](https://twitter.com/KitsuneSolar)
 - [Vk](https://vk.com/KitsuneSolar)
 
 #### Разработка
