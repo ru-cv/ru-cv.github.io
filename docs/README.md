@@ -61,7 +61,7 @@
 - JavaScript
 - PHP
 - Git
-- Shell (Bash / Zsh)
+- Shell
 
 ---
 
@@ -71,50 +71,50 @@
 
 #### Операционные системы
 
-- [Windows](https://microsoft.com/windows)
+- [Windows](https://microsoft.com/windows)  
   Грешно не знать самую популярную систему на персональных компьютерах.
-- [Windows Server](https://microsoft.com/windows-server)
+- [Windows Server](https://microsoft.com/windows-server)  
   В некоторых случаях использовал эту систему для стриминга и записи аудио-потоков для радио-эфиров.
-- [Fedora](https://getfedora.org/)
+- [Fedora](https://getfedora.org/)  
   Использую систему на пользовательских ПК и серверах. Да, на некоторых серверах. :smile:
-- [CentOS](https://centos.org/) / [Oracle Linux](https://oracle.com/linux/)
+- [CentOS](https://centos.org/) / [Oracle Linux](https://oracle.com/linux/)  
   Использую эту промышленную систему исключительно на серверах.
-- [Ubuntu](https://ubuntu.com/) / [Debian](https://debian.org/)
+- [Ubuntu](https://ubuntu.com/) / [Debian](https://debian.org/)  
   Ubuntu использовал в качестве домашней системы. На Debian работает несколько серверов в организациях.
-- [openSUSE](https://opensuse.org/)
+- [openSUSE](https://opensuse.org/)  
   Неплохая система с автоматическим и простым конфигуратором. Раньше использовал в качестве домашней системы.
 
 #### Администрирование
 
-- Shell ([Bash](https://gnu.org/software/bash/) / [Zsh](https://zsh.org/))
+- Shell ([Bash](https://gnu.org/software/bash/) / [Zsh](https://zsh.org/))  
   Пишу скрипты для автоматизации различных действий на Bash (Zsh).
-- [RPM](https://en.wikipedia.org/wiki/RPM_Package_Manager)
+- [RPM](https://en.wikipedia.org/wiki/RPM_Package_Manager)  
   Собираю пакеты для CentOS и Fedora.
-- [DEB](https://en.wikipedia.org/wiki/APT_(software))
+- [DEB](https://en.wikipedia.org/wiki/APT_(software))  
   Собираю пакеты для Debian.
 
 #### CMS / CMF
 
-- [Drupal](https://drupal.org/)
+- [Drupal](https://drupal.org/)  
   Предоставляет очень мощные возможности по управлению контентом. Люблю эту CMF.
-- [Flarum](https://flarum.org/)
+- [Flarum](https://flarum.org/)  
   Неплохой, развивающийся форум. Являюсь разработчиком русской локализации этого движка.
-- [MediaWiki](https://mediawiki.org/)
+- [MediaWiki](https://mediawiki.org/)  
   Для составления документации нет лучше инструмента, чем WIKI-система. Умею поднимать с единой системой авторизации пользователей и единым хранилищем медиа. Настраиваю WIKI-фермы.
-- [WordPress](https://wordpress.org/)
+- [WordPress](https://wordpress.org/)  
   Очень простой движок для сайтов различного назначения. Делаю небольшие модули и темы для этого движка.
-- [XenForo](https://xenforo.com/)
+- [XenForo](https://xenforo.com/)  
   Мощный движок для создания форума. От разработчиков vBulletin. Делаю небольшие модули и темы для этого движка.
 
 #### Разработка
 
-- [HTML](https://w3.org/)
+- [HTML](https://w3.org/)  
   Использую для разработки веб-приложений.
-- [CSS](https://w3.org/)
+- [CSS](https://w3.org/)  
   В работе предпочитаю использовать Sass / SCSS.
-- [JavaScript](https://ecma-international.org/)
+- [JavaScript](https://ecma-international.org/)  
   Логика.
-- [PHP](https://php.net/)
+- [PHP](https://php.net/)  
   Пишу дополнения, модули, модификации, расширения для веб-приложений.
 
 ---
@@ -122,6 +122,15 @@
 ## Опыт
 
 Работал и работаю в этих компаниях и стартапах.
+
+#### z1729 Factory
+
+Платформа по проектированию, разработке и поддержке WEB-приложений.
+
+- Мои обязанности:
+  - Проектирование и разработка веб-приложений.
+  - Установка и администрирование серверов на GNU/Linux.
+  - Консультация по веб-технологиям.
 
 #### АО Институт ЭНЕРГОСЕТЬПРОЕКТ
 
@@ -148,19 +157,19 @@
 
 #### Linux
 
-- [Репозиторий Debian](https://build.opensuse.org/project/show/home:pkgstore:deb)
+- [Репозиторий Debian](https://build.opensuse.org/project/show/home:pkgstore:deb)  
   Репозиторий DEB пакетов для дистрибутива Debian GNU/Linux.
-- [Репозиторий CentOS / Fedora](https://build.opensuse.org/project/show/home:pkgstore:rpm)
+- [Репозиторий CentOS / Fedora](https://build.opensuse.org/project/show/home:pkgstore:rpm)  
   Репозиторий RPM пакетов для дистрибутивов CentOS / Fedora / Oracle Linux.
 
 #### Порталы
 
-- [UNIX Community]()
+- [UNIX Community]()  
   Сообщество администраторов UNIX-систем. *В проекте...*
 
 #### Сервера Discord
 
-- [Discord Servers](https://discordservers.top/)
+- [Discord Servers](https://discordservers.top/)  
   Список серверов Discord. *В проекте...*
 
 ---
