@@ -1,0 +1,38 @@
+title: "Kitsune Solar"
+description: "Профиль и резюме Kitsune Solar."
+image: ""
+lang: "ru_RU"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: ""
+
+author:
+  name: "Kitsune Solar"
+  email: "kitsune.solar@gmail.com"
+  github: "KitsuneSolar"
+  twitter: "KitsuneSolar"
+
+twitter:
+  username: "KitsuneSolar"
+  card: summary
+
+social:
+  name: "Kitsune Solar"
+  links:
+    - https://kitsune.solar
+    - https://twitter.com/KitsuneSolar
+    - https://linkedin.com/in/KitsuneSolar
+    - https://github.com/KitsuneSolar
+    - https://gitlab.com/KitsuneSolar
+
+webmaster_verifications:
+  google: ""
+  yandex: ""
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
