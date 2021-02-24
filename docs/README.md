@@ -7,8 +7,8 @@
 
 #### Контакты
 
-- [Официальный сайт](https://kitsune.solar)
-- [Форма для пожертвований](https://donation-form.github.io)
+- [Официальный сайт](https://kitsune.solar) <code class="print">https://kitsune.solar</code>
+- [Форма для пожертвований](https://donation-form.github.io) <code class="print">https://donation-form.github.io</code>
 - [mail@kitsune.solar](mailto:mail@kitsune.solar)
 
 ---
@@ -25,10 +25,10 @@
 Имеются собственные репозитории (собираю и обновляю пакеты):
 
 - Debian
-  - [OBS](https://build.opensuse.org/project/show/home:pkgstore:deb)
+  - [OBS](https://build.opensuse.org/project/show/home:pkgstore:deb) <code class="print">https://build.opensuse.org/project/show/home:pkgstore:deb</code>
 - CentOS / Fedora
-  - [OBS](https://build.opensuse.org/project/show/home:pkgstore:rpm)
-  - [COPR](https://copr.fedorainfracloud.org/coprs/pkgstore/)
+  - [OBS](https://build.opensuse.org/project/show/home:pkgstore:rpm) <code class="print">https://build.opensuse.org/project/show/home:pkgstore:rpm</code>
+  - [COPR](https://copr.fedorainfracloud.org/coprs/pkgstore/) <code class="print">https://copr.fedorainfracloud.org/coprs/pkgstore/</code>
 
 Устанавливаю и настраиваю компоненты системы, например, такие как:
 
@@ -47,12 +47,12 @@
 
 Являюсь автором модулей к движкам сайтов и форумов. В разработке использую CMS:
 
-- Drupal ([репозиторий](https://github.com/marketplace-drupal))
-- Flarum ([репозиторий](https://github.com/marketplace-flarum))
-- MediaWiki ([репозиторий](https://github.com/marketplace-mediawiki))
-- XenForo ([репозиторий](https://github.com/marketplace-xenforo))
+- Drupal ([репозиторий](https://github.com/marketplace-drupal) <code class="print">https://github.com/marketplace-drupal</code>)
+- Flarum ([репозиторий](https://github.com/marketplace-flarum) <code class="print">https://github.com/marketplace-flarum</code>)
+- MediaWiki ([репозиторий](https://github.com/marketplace-mediawiki) <code class="print">https://github.com/marketplace-mediawiki</code>)
+- XenForo ([репозиторий](https://github.com/marketplace-xenforo) <code class="print">https://github.com/marketplace-xenforo</code>)
 
-Создатель [русской локализации](https://discuss.flarum.org/d/1545) движка [Flarum](https://flarum.org/).
+Создатель [русской локализации](https://discuss.flarum.org/d/1545) <code class="print">https://discuss.flarum.org/d/1545</code> движка [Flarum](https://flarum.org/).
 
 #### Навыки
 
@@ -148,9 +148,9 @@
 
 #### Linux
 
-- Репозиторий Debian ([OBS](https://build.opensuse.org/project/show/home:pkgstore:deb))  
+- Репозиторий Debian ([OBS](https://build.opensuse.org/project/show/home:pkgstore:deb) <code class="print">https://build.opensuse.org/project/show/home:pkgstore:deb</code>)  
   Репозиторий DEB пакетов для дистрибутива Debian GNU/Linux.
-- Репозиторий CentOS / Fedora ([OBS](https://build.opensuse.org/project/show/home:pkgstore:rpm) / [COPR](https://copr.fedorainfracloud.org/coprs/pkgstore/))  
+- Репозиторий CentOS / Fedora ([OBS](https://build.opensuse.org/project/show/home:pkgstore:rpm) <code class="print">https://build.opensuse.org/project/show/home:pkgstore:rpm</code> / [COPR](https://copr.fedorainfracloud.org/coprs/pkgstore/) <code class="print">https://copr.fedorainfracloud.org/coprs/pkgstore/</code>)  
   Репозиторий RPM пакетов для дистрибутивов CentOS / Fedora / Oracle Linux.
 
 #### Порталы
@@ -160,7 +160,7 @@
 
 #### Сервера Discord
 
-- [Discord Servers](https://discordservers.top/)  
+- [Discord Servers](https://discordservers.top/) <code class="print">https://discordservers.top/</code>  
   Список серверов Discord. *В проекте...*
 
 ---
@@ -171,13 +171,14 @@
 
 #### Социальные сети
 
-- [Facebook](https://facebook.com/KitsuneSolar)
-- [Instagram](https://instagram.com/KitsuneSolar)
-- [LinkedIn](https://linkedin.com/in/KitsuneSolar)
-- [Telegram](https://t.me/KitsuneSolar)
-- [Twitch](https://twitch.tv/KitsuneSolar)
-- [Twitter](https://twitter.com/KitsuneSolar)
-- [Vk](https://vk.com/KitsuneSolar)
+- [Facebook](https://facebook.com/KitsuneSolar) <code class="print">https://facebook.com/KitsuneSolar</code>
+- [Instagram](https://instagram.com/KitsuneSolar) <code class="print">https://instagram.com/KitsuneSolar</code>
+- [LinkedIn](https://linkedin.com/in/KitsuneSolar) <code class="print">https://linkedin.com/in/KitsuneSolar</code>
+- [Telegram](https://t.me/KitsuneSolar) <code class="print">https://t.me/KitsuneSolar</code>
+- [Twitch](https://twitch.tv/KitsuneSolar) <code class="print">https://twitch.tv/KitsuneSolar</code>
+- [Twitter](https://twitter.com/KitsuneSolar) <code class="print">https://twitter.com/KitsuneSolar</code>
+- [Vk](https://vk.com/KitsuneSolar) <code class="print">https://vk.com/KitsuneSolar</code>
+- [YouTube](https://youtube.com/KitsuneSolar) <code class="print">https://youtube.com/KitsuneSolar</code>
 
 #### Разработка
 
