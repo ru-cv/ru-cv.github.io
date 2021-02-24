@@ -148,7 +148,7 @@
 
 #### Linux
 
-- [Репозиторий Debian](https://build.opensuse.org/project/show/home:pkgstore:deb) <code class="text-gray print">https://build.opensuse.org/project/show/home:pkgstore:deb</code>  
+- [Репозиторий Debian (OBS)](https://build.opensuse.org/project/show/home:pkgstore:deb) <code class="text-gray print">https://build.opensuse.org/project/show/home:pkgstore:deb</code>  
   Репозиторий DEB пакетов для дистрибутива Debian GNU/Linux на OBS.
 - [Репозиторий CentOS / Fedora (OBS)](https://build.opensuse.org/project/show/home:pkgstore:rpm) <code class="text-gray print">https://build.opensuse.org/project/show/home:pkgstore:rpm</code>  
   Репозиторий RPM пакетов для дистрибутивов CentOS / Fedora / Oracle Linux на OBS.
