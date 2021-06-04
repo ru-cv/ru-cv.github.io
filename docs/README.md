@@ -48,10 +48,10 @@
 
 Являюсь автором модулей к движкам сайтов и форумов:
 
-- [Drupal](https://github.com/marketplace-drupal) <code class="print">https://github.com/marketplace-drupal</code>
-- [Flarum](https://github.com/marketplace-flarum) <code class="print">https://github.com/marketplace-flarum</code>
-- [MediaWiki](https://github.com/marketplace-mediawiki) <code class="print">https://github.com/marketplace-mediawiki</code>
-- [XenForo](https://github.com/marketplace-xenforo) <code class="print">https://github.com/marketplace-xenforo</code>
+- [Drupal](https://github.com/search?q=topic:drupal+org:pkgstore&type=Repositories) <code class="print">https://github.com/search?q=topic:drupal+org:pkgstore&type=Repositories</code>
+- [Flarum](https://github.com/search?q=topic:flarum+org:pkgstore&type=Repositories) <code class="print">https://github.com/search?q=topic:flarum+org:pkgstore&type=Repositories</code>
+- [MediaWiki](https://github.com/search?q=topic:mediawiki+org:pkgstore&type=Repositories) <code class="print">https://github.com/search?q=topic:mediawiki+org:pkgstore&type=Repositories</code>
+- [XenForo](https://github.com/search?q=topic:xenforo+org:pkgstore&type=Repositories) <code class="print">https://github.com/search?q=topic:xenforo+org:pkgstore&type=Repositories</code>
 
 Создатель [русской локализации](https://discuss.flarum.org/d/1545) <code class="print">https://discuss.flarum.org/d/1545</code> движка [Flarum](https://flarum.org/).
 
