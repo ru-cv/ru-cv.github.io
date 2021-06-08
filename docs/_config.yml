@@ -35,8 +35,8 @@ social:
     - https://youtube.com/KitsuneSolar
 
 webmaster_verifications:
-  google: ""
-  yandex: ""
+  google: "JP8xL1s_oeKkyIi0gxXsewBiBGiTqyoRwnKDZ3zC_uI"
+  yandex: "bf121f1bf1add378"
 
 plugins:
   - jekyll-seo-tag
