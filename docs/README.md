@@ -9,7 +9,6 @@
 #### Контакты
 
 - [Официальный сайт](https://kitsune.solar) <code class="print">https://kitsune.solar</code>
-- [Форма для пожертвований](https://donation-form.github.io) <code class="print">https://donation-form.github.io</code>
 - [mail@kitsune.solar](mailto:mail@kitsune.solar)
 
 ---
