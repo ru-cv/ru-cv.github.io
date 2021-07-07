@@ -171,6 +171,11 @@
 
 Профили в различных социальных сетях.
 
+### Разработка
+
+- [GitHub](https://github.com/KitsuneSolar) <code class="print">https://github.com/KitsuneSolar</code>
+- [GitLab](https://gitlab.com/KitsuneSolar) <code class="print">https://gitlab.com/KitsuneSolar</code>
+
 ### Социальные сети
 
 - [Facebook](https://facebook.com/KitsuneSolar) <code class="print">https://facebook.com/KitsuneSolar</code>
@@ -181,8 +186,3 @@
 - [Twitter](https://twitter.com/KitsuneSolar) <code class="print">https://twitter.com/KitsuneSolar</code>
 - [Vk](https://vk.com/KitsuneSolar) <code class="print">https://vk.com/KitsuneSolar</code>
 - [YouTube](https://youtube.com/KitsuneSolar) <code class="print">https://youtube.com/KitsuneSolar</code>
-
-### Разработка
-
-- [GitHub](https://github.com/KitsuneSolar) <code class="print">https://github.com/KitsuneSolar</code>
-- [GitLab](https://gitlab.com/KitsuneSolar) <code class="print">https://gitlab.com/KitsuneSolar</code>
