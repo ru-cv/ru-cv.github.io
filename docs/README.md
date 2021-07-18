@@ -8,7 +8,7 @@
 
 #### Контакты
 
-- [Официальный сайт](https://kitsunesolar.com) <code class="print">https://kitsunesolar.com</code>
+- [Официальный сайт](https://kitsune.solar) <code class="print">https://kitsune.solar</code>
 - [kitsune.solar@gmail.com](mailto:kitsune.solar@gmail.com)
 
 ---
