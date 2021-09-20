@@ -146,7 +146,7 @@
 
 ## Работы
 
-### Linux
+### Проекты
 
 - [Package Store](https://pkgstore.github.io/) <code class="print">https://pkgstore.github.io/</code>  
   Репозиторий пакетов для различных CMS / CMF и дистрибутивов Linux, скрипты автоматизации и сценарии GitHub Actions.
