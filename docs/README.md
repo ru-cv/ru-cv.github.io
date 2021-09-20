@@ -27,8 +27,7 @@
 - Debian
   - [OBS](https://build.opensuse.org/project/show/home:pkgstore:deb) <code class="print">https://build.opensuse.org/project/show/home:pkgstore:deb</code>
 - CentOS / Fedora
-  - [OBS](https://build.opensuse.org/project/show/home:pkgstore:rpm) <code class="print">https://build.opensuse.org/project/show/home:pkgstore:rpm</code>
-  - [COPR](https://copr.fedorainfracloud.org/coprs/pkgstore/) <code class="print">https://copr.fedorainfracloud.org/coprs/pkgstore/</code>
+  - [COPR](https://copr.fedorainfracloud.org/coprs/pkgstore/) <code class="print">https://copr.fedorainfracloud.org/coprs/pkgstore</code>
 
 Устанавливаю и настраиваю компоненты системы, например, такие как:
 
@@ -148,7 +147,7 @@
 
 ### Разработка
 
-- [Package Store](https://pkgstore.github.io/) <code class="print">https://pkgstore.github.io/</code>  
+- [Package Store](https://pkgstore.github.io/) <code class="print">https://pkgstore.github.io</code>  
   Репозиторий пакетов для различных CMS / CMF и дистрибутивов Linux, скрипты автоматизации и сценарии GitHub Actions.
 
 ### Порталы
@@ -158,7 +157,7 @@
 
 ### Сервера Discord
 
-- [Discord Servers](https://discordservers.top/) <code class="print">https://discordservers.top/</code>  
+- [Discord Servers](https://discordservers.top/) <code class="print">https://discordservers.top</code>  
   Список серверов Discord. *В проекте...*
 
 ---
