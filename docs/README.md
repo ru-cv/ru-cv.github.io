@@ -148,8 +148,8 @@
 
 ### Linux
 
-- [Репозиторий CentOS / Fedora (COPR)](https://copr.fedorainfracloud.org/coprs/pkgstore/) <code class="print">https://copr.fedorainfracloud.org/coprs/pkgstore/</code>  
-  Репозиторий RPM пакетов для дистрибутивов CentOS / Fedora / Oracle Linux на **Fedora COPR**.
+- [Package Store](https://pkgstore.github.io/) <code class="print">https://pkgstore.github.io/</code>  
+  Репозиторий пакетов для различных CMS / CMF и дистрибутивов Linux, скрипты автоматизации и сценарии GitHub Actions.
 
 ### Порталы
 
